@@ -1,0 +1,14 @@
+{
+  "name": "word-search",
+  "version": "1.0.0",
+  "description": "A utility to generate the CSS and related content for word search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "msedgren",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
